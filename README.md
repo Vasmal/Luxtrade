@@ -1,1 +1,1 @@
-<a href="https://vasmal.github.io/Luxtrade/" target="_blank">Luxtrade</a>
+<a target="_blank" href="https://vasmal.github.io/Luxtrade/">Luxtrade</a>
